@@ -5,11 +5,12 @@ Noise and Distortion Resistant Audio Fingerprinting
 
 # Usage
 
+```
 >> cuplikhan_build
 [+] Building chromaprint: mp3/
 
 >> cuplikhan_lookup(Q, 'q/query_test.mp3');
-
+```
 ___
 
 ![alt text](https://licensebuttons.net/l/by-nc/3.0/88x31.png "Creative Commons")
