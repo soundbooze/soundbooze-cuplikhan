@@ -31,7 +31,7 @@ MP3 Read
 (http://www.ee.columbia.edu/ln/rosa/matlab/mp3read.html)
 
 OpenBSD Songs
-http://openbsd.cs.toronto.edu/pub/OpenBSD/songs/
+(http://openbsd.cs.toronto.edu/pub/OpenBSD/songs/)
 ___
 
 ![alt text](https://licensebuttons.net/l/by-nc/3.0/88x31.png "Creative Commons")
