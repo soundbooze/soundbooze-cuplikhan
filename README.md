@@ -8,8 +8,18 @@ Noise and Distortion Resistant Audio Fingerprinting written in Octave.
 ```
 >> cuplikhan_build
 [+] Building chromaprint: mp3/
+Elapsed time is 1000.43 seconds.
 
->> cuplikhan_lookup(Q, 'q/query_test.mp3');
+cuplikhan_lookup(V, 'q/query_test.mp3');
+[+] Playing query
+[+] Searching
+[+] Max value:
+maximum correlation: 0.186237 idx: 1791 | frame (6615001)
+filename: mp3//song49.mp3
+
+(*) Lookup
+Elapsed time is 9.48699 seconds.
+
 ```
 
 ## Requirements
