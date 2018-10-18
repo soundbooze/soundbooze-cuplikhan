@@ -1,4 +1,3 @@
-![alt text](https://raw.githubusercontent.com/soundbooze/soundbooze-feature/master/uduk.png "UDUK")
 
 # CupLiKhan
 Noise and Distortion Resistant Audio Fingerprinting written in Octave. Proof of concept, not meant to be used in production environment. There are many area of improvements need to be done.
