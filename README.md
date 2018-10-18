@@ -24,6 +24,9 @@ Elapsed time is 9.48699 seconds.
 
 ## Requirements
 
+Chroma
+(https://github.com/alexanderlerch/ACA-Code/blob/master/FeatureSpectralPitchChroma.m)
+
 GNU Octave
 (https://www.gnu.org/software/octave/)
 
